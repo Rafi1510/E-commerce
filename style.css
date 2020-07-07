@@ -23,3 +23,46 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+
+.cat1 {
+    background-color: orange;
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+
+.cat2 {
+    background-color: red;
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+
+.cat3 {
+    background-color: blue;
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+
+.catagories h1 {
+    color: white;
+}
+
+.catagories img {
+    width: 100px;
+}
+
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+#contactus {
+    height: 200px;
+}
+
+#contactus h6 {
+    color: blue;
+}
+
+footer {
+    text-align: center;
+}
